@@ -31,10 +31,14 @@ while True:
       feelings_list.append("meh")
       encouragement_list.append("Hehe we will feel meh sometimes toooooo")
       counter += 1
+    if each_word == "laughy":
+      feelings_list.append("laughy")
+      encouragement_list.append("Whoop!!!!! Be like meeeee Laugh a lotttt!!!! Don't listen to friends that tell you to stop laughing!!!!!!! It has been scientifically proven that laughing is good for your health!!! [According to The Caitlin Scientific lab of research]")
+      counter += 1
 
   if counter == 0:
     
-      output = "Use words like sad, happy, tired, awesome and meh. Alsoooo don't caps the first letter if not it will not work"
+      output = "Use words like sad, happy, tired, awesome ,laughy and meh. Alsoooo don't caps the first letter if not it will not work"
 
   elif counter == 1:
     
