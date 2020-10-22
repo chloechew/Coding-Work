@@ -17,11 +17,11 @@ while True:
       counter += 1
     if each_word == "happy":
       feelings_list.append("happy")
-      encouragement_list.append("Yayyyyy being happy is always the BEST!!!! Stay positive!!")
+      encouragement_list.append("Yayyyyy being happy is always the BEST!!!! Continue to stay positive!!")
       counter += 1
     if each_word == "tired":
       feelings_list.append("tired")
-      encouragement_list.append("You should take a short rest... being tired wont help!! I shall set timers for you!! Jiayouzzzzzz you are much stronger than you think:)))))")
+      encouragement_list.append("You should take a short rest... being tired won't help!! I shall set timers for you!! Jiayouzzzzzz you are much stronger than you think:)))))")
       counter += 1
     if each_word == "awesome":
       feelings_list.append("awesome")
@@ -33,7 +33,7 @@ while True:
       counter += 1
     if each_word == "laughy":
       feelings_list.append("laughy")
-      encouragement_list.append("Whoop!!!!! Be like meeeee Laugh a lotttt!!!! Don't listen to friends that tell you to stop laughing!!!!!!! It has been scientifically proven that laughing is good for your health!!! [According to The Caitlin Scientific lab of research]")
+      encouragement_list.append("Whoop!!!!! Be like meeeee and laugh a lotttt!!!! Don't listen to friends that tell you to stop laughing!!!!!!! It has been scientifically proven that laughing is good for your health!!! [According to The Caitlin Scientific lab of research]")
       counter += 1
 
   if counter == 0:
